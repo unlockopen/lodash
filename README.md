@@ -1,5 +1,8 @@
 # lodash v4.17.21
 
+> [!NOTE]
+> As announced on the [OpenJS Foundation blog](https://openjsf.org/blog/sta-supports-lodash), Lodash has received support from the Sovereign Tech Agency to transition into a Feature-Complete maturity stage project, ensuring its long-term stability, security, and sustainability. As part of this effort, Lodash is rebooting its governance. A draft charter will be published shortly. The interim Technical Steering Committee is already at work. For transparency, its members are listed in [GOVERNANCE.md](GOVERNANCE.md).
+
 [Site](https://lodash.com/) |
 [Docs](https://lodash.com/docs) |
 [FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide) |

@@ -1,7 +1,7 @@
+# Governance
+
 > [!IMPORTANT]
 > As announced on the [OpenJS Foundation blog](https://openjsf.org/blog/sta-supports-lodash), Lodash has received support from the Sovereign Tech Agency and will transition to the Feature-Complete maturity stage so that it remains stable, secure, and sustainable long-term. As part of this effort, Lodash is rebooting its governance. A draft charter will be published shortly. The upcoming Technical Steering Committee (TSC) is already at work. For transparency, its members are listed below.
-
-# Governance
 
 ## Technical Steering Committee Members
 
@@ -28,5 +28,3 @@ The Security Triage Team is responsible for assessing and managing vulnerability
 The Release Team is sole responsible for publishing new versions of Lodash to npm. Its current member is:
 
 - John-David Dalton ([@jdalton](https://github.com/jdalton))
-
-
